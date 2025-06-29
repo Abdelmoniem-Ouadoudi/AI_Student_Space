@@ -243,12 +243,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vercel** for Next.js and deployment platform
 - **FastAPI** team for the excellent Python framework
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/Abdelmoniem-Ouadoudi/AI_Student_Space/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Abdelmoniem-Ouadoudi/AI_Student_Space/discussions)
-- **Email**: [Contact Developer](mailto:abdelmoniem.ouadoudi@example.com)
-
 ---
 
 **Built with ❤️ for education and powered by AI**
