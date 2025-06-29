@@ -1,0 +1,180 @@
+{  "nav": {
+    "signIn": "Connexion",
+    "getStarted": "🚀 Démarrer",
+    "back": "Retour",
+    "settings": "Paramètres",
+    "fileManager": "Mes Documents",
+    "logout": "Déconnexion",
+    "chat": "Assistant IA",
+    "qcm": "Créateur QCM",
+    "suggest": "Suggestions",
+    "hideNavigation": "Masquer le menu",
+    "showNavigation": "Afficher le menu"
+  },
+  "home": {
+    "poweredByAI": "Propulsé par l'IA",
+    "title": "Votre assistant",
+    "titleHighlight": "d'études intelligent",
+    "subtitle": "Révolutionnez votre façon d'apprendre avec notre assistant IA. Importez vos documents et recevez des explications sur mesure.",
+    "chat": {
+      "title": "Assistant d'étude IA",
+      "description": "Obtenez des réponses instantanées à toutes vos questions dans une conversation naturelle",
+      "action": "Essayer"
+    },
+    "qcm": {
+      "title": "Créateur de QCM",
+      "description": "Générez des questionnaires personnalisés à partir de n'importe quel sujet ou document",
+      "action": "Créer un QCM"
+    },
+    "cta": {
+      "title": "Prêt à améliorer vos études ?",
+      "subtitle": "Rejoignez des milliers d'étudiants qui réussissent mieux grâce à l'intelligence artificielle.",
+      "startLearning": "Commencer maintenant",
+      "watchDemo": "Voir la démonstration"
+    },
+    "footer": {
+      "copyright": "© 2025 AI Student Space. Tous droits réservés."
+    }
+  },  "chat": {
+    "title": "Assistant d'études",
+    "subtitle": "Votre partenaire intelligent pour réussir",
+    "welcome": "Prêt à booster vos connaissances ?",
+    "description": "Importez vos documents, posez vos questions ou explorez de nouveaux sujets. Je suis là pour vous accompagner vers la réussite !",
+    "placeholder": "Posez votre question ou demandez de l'aide...",
+    "dropFilesHere": "Déposez vos fichiers ici",
+    "supportedFormats": "Formats acceptés :",
+    "prompts": {
+      "explain": "Expliquer simplement",
+      "homework": "M'aider avec mes devoirs",
+      "strategies": "Conseils pour mieux étudier"
+    }
+  },  "qcm": {
+    "title": "Créateur de QCM",
+    "subtitle": "Générateur intelligent de questionnaires",
+    "welcome": "Créez vos QCM sur mesure",
+    "description": "Importez vos documents ou indiquez vos sujets pour générer des questionnaires à choix multiples adaptés à vos besoins d'apprentissage.",
+    "placeholder": "Décrivez le type de questions souhaitées ou déposez vos fichiers...",
+    "uploadFiles": "Importez vos documents",
+    "dropFiles": "Déposez vos fichiers ici pour démarrer",
+    "dropFilesHere": "Déposez vos fichiers ici",
+    "dragDropDescription": "Glissez-déposez vos documents ici ou cliquez pour les sélectionner. Compatible avec PDF, Word et fichiers texte.",
+    "multipleFilesSupported": "Plusieurs documents acceptés",
+    "clickToUse": "Cliquez pour utiliser ce modèle",
+    "processing": "En cours de création...",
+    "generateQCM": "Créer mon QCM",
+    "supportedFormats": "Formats acceptés :",
+    "customPromptPlaceholder": "Générer des questions à partir des documents fournis",    "prompts": {
+      "generate10": "Créer 10 questions à choix multiples avec 4 réponses possibles et des explications détaillées",
+      "fromDocument": "Générer un examen complet basé sur les concepts clés de mes documents",
+      "quick5min": "Créer un quiz rapide de 5 minutes avec 5 questions simples",
+      "advanced": "Générer des questions avancées pour tester ma compréhension en profondeur",
+      "trueFalse": "Créer 10 questions vrai/faux avec explications pour chaque réponse",
+      "mixed": "Générer un examen mixte (QCM, vrai/faux et questions ouvertes) à différents niveaux",
+      "comprehensive": "Créer un test complet de 15-20 questions couvrant tous les aspects importants",
+      "exam": "Générer une simulation d'examen final avec 25 questions complexes",
+      "custom": "Créer des questions sur mesure (format, difficulté et nombre personnalisables)",
+      "beginner": "Générer des questions simples avec vocabulaire accessible pour débutants",
+      "multipleChoice": "Créer uniquement des QCM avec 4 options et explications claires",
+      "practice": "Générer des exercices pratiques avec corrections immédiates",
+      "revision": "Créer des questions de révision ciblant les concepts essentiels",
+      "conceptual": "Générer des questions de compréhension sur le 'pourquoi' et le 'comment'",
+      "essay": "Créer des sujets de réflexion et questions ouvertes pour développer mon analyse"
+    }
+  },"SignIn": {
+    "title": "Connexion à AI Student Space",
+    "subtitle": "Accédez à votre espace personnel",
+    "description": "Connectez-vous pour profiter de toutes les fonctionnalités de votre assistant d'études intelligent",
+    "signInWith": "Connexion via",
+    "orContinueAs": "Ou continuer comme",
+    "continueAsGuest": "Mode invité",
+    "authenticating": "Connexion via {provider} en cours...",
+    "signInSuccess": "Connexion réussie ! Redirection...",
+    "signInError": "La connexion a échoué. Veuillez réessayer.",
+    "settingUpGuest": "Préparation du mode invité...",
+    "settingUp": "Initialisation...",
+    "guestUser": "Invité"
+  },  "SignUp": {
+    "title": "Créer votre compte",
+    "subtitle": "Commencez votre parcours d'apprentissage intelligent",
+    "description": "Rejoignez AI Student Space pour une expérience d'apprentissage personnalisée",
+    "signUpWith": "Inscription via",
+    "alreadyHaveAccount": "Déjà un compte ?",
+    "signInInstead": "Me connecter",
+    "termsNotice": "En vous inscrivant, vous acceptez nos",
+    "termsOfService": "Conditions d'utilisation",
+    "and": "et",
+    "privacyPolicy": "Politique de confidentialité",
+    "creatingAccount": "Création de votre compte via {provider}...",
+    "signUpSuccess": "Votre compte est prêt ! Redirection...",
+    "signUpError": "L'inscription a échoué. Veuillez réessayer."
+  },  "AuthError": {
+    "title": "Problème de connexion",
+    "description": "Un problème est survenu pendant la connexion",
+    "configurationError": "Un problème technique est survenu. Merci de réessayer plus tard.",
+    "accessDenied": "Accès refusé. Vous n'avez peut-être pas les permissions nécessaires.",
+    "verificationError": "Le lien de vérification n'est plus valide ou a expiré.",
+    "defaultError": "Une erreur inattendue s'est produite. Veuillez réessayer.",
+    "tryAgain": "Réessayer",
+    "backToHome": "Retour à l'accueil",
+    "errorCode": "Code erreur"
+  },
+  "theme": {
+    "light": "Clair",
+    "dark": "Sombre",
+    "system": "Automatique",
+    "switchTheme": "Changer d'apparence",
+    "toggleTheme": "Modifier le thème"
+  },
+  "UserSession": {
+    "user": "Utilisateur",
+    "signOut": "Déconnexion",
+    "signingOut": "Déconnexion en cours..."
+  },  "settings": {
+    "title": "Paramètres",
+    "profile": {
+      "title": "Mon profil"
+    },
+    "files": {
+      "title": "Mes documents",
+      "empty": "Aucun document disponible",
+      "delete": {
+        "title": "Supprimer le document",
+        "description": "Voulez-vous vraiment supprimer ce document ? Cette action est définitive et supprimera le fichier ainsi que toutes les données associées.",
+        "cancel": "Annuler",
+        "confirm": "Supprimer"
+      }
+    },
+    "account": {
+      "title": "Mon compte",
+      "description": "Gérez vos préférences et informations personnelles."
+    },
+    "notifications": {
+      "title": "Notifications",
+      "description": "Personnalisez vos préférences de notification."
+    },
+    "privacy": {
+      "title": "Confidentialité & Sécurité",
+      "description": "Contrôlez vos paramètres de confidentialité et de sécurité."
+    },
+    "appearance": {
+      "title": "Affichage",
+      "description": "Personnalisez l'apparence de votre espace."
+    }
+  },
+  "fileManager": {
+    "title": "Mes documents",
+    "profile": {
+      "title": "Mon profil"
+    },
+    "files": {
+      "title": "Documents importés",
+      "empty": "Vous n'avez pas encore importé de documents",
+      "delete": {
+        "title": "Supprimer le document",
+        "description": "Voulez-vous vraiment supprimer ce document ? Cette action est définitive et supprimera le fichier ainsi que toutes les données associées.",
+        "cancel": "Annuler",
+        "confirm": "Supprimer"
+      }
+    }
+  }
+}

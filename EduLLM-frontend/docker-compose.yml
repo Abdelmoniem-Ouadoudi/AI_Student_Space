@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+      - NEXTAUTH_URL=http://localhost:3000
+      - NEXTAUTH_SECRET=some_development_secret_key_replace_in_production
+    volumes:
+      # Mount source code for development (optional)
+      - .:/app
+      - /app/node_modules
+      - /app/.next
+    networks:
+      - edullm-network
+
+networks:
+  edullm-network:
+    driver: bridge

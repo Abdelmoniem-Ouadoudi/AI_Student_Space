@@ -1,0 +1,179 @@
+{  "nav": {
+    "signIn": "Sign In",
+    "getStarted": "🚀 Get Started",
+    "back": "Back",
+    "settings": "Settings",
+    "fileManager": "File Manager",
+    "logout": "Logout",
+    "chat": "Chat",
+    "qcm": "QCM Generator",
+    "suggest": "Suggestions",
+    "hideNavigation": "Hide Navigation",
+    "showNavigation": "Show Navigation"
+  },
+  "home": {
+    "poweredByAI": "Powered by AI",
+    "title": "Your AI Learning",
+    "titleHighlight": "Companion",
+    "subtitle": "Transform your learning with AI-powered assistance. Upload documents and get personalized explanations.",
+    "chat": {
+      "title": "AI Learning Chat",
+      "description": "Get instant AI-powered answers to your questions with natural conversation",
+      "action": "Get Started"
+    },
+    "qcm": {
+      "title": "QCM Generator",
+      "description": "Create custom multiple choice exams from any topic or document",
+      "action": "Get Started"
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "subtitle": "Join thousands of students learning smarter with AI assistance.",
+      "startLearning": "Start Learning",
+      "watchDemo": "Watch Demo"
+    },
+    "footer": {
+      "copyright": "© 2025 AI Student Space. All rights reserved."
+    }
+  },  "chat": {
+    "title": "AI Student Space Chat",
+    "subtitle": "Your AI Learning Companion",
+    "welcome": "Ready to Learn Together?",
+    "description": "Upload your study materials, ask questions, or explore new topics. I'm here to help you succeed!",
+    "placeholder": "Ask me anything about your studies...",
+    "dropFilesHere": "Drop files here",
+    "supportedFormats": "Supported formats:",
+    "prompts": {
+      "explain": "Explain a concept",
+      "homework": "Help with homework",
+      "strategies": "Study strategies"
+    }
+  },  "qcm": {
+    "title": "AI Student Space QCM",
+    "subtitle": "AI-Powered Exam Generator",
+    "welcome": "Create Custom QCM Exams",
+    "description": "Upload your study materials or provide topics to generate personalized multiple choice questions and exams with AI assistance.",
+    "placeholder": "Describe the exam you want to create or drag & drop files here...",    "uploadFiles": "Upload Your Study Materials",
+    "dropFiles": "Drop files here to get started",
+    "dropFilesHere": "Drop files here",
+    "dragDropDescription": "Drag and drop multiple files here or click to browse. Supports PDF, Word documents, and text files.",
+    "multipleFilesSupported": "Multiple files supported",
+    "clickToUse": "Click to use this prompt",
+    "processing": "Processing...",
+    "generateQCM": "Generate QCM",
+    "supportedFormats": "Supported formats:",
+    "customPromptPlaceholder": "Generate questions based on the uploaded materials","prompts": {
+      "generate10": "Generate 10 multiple choice questions with 4 answer options each, including detailed explanations for correct answers",
+      "fromDocument": "Create a comprehensive exam with multiple choice questions based on the key concepts from the uploaded document",
+      "quick5min": "Generate a quick 5-minute quiz with 5 multiple choice questions that can be completed in 5 minutes",
+      "advanced": "Create challenging advanced-level questions that test deep understanding and critical thinking skills",
+      "trueFalse": "Generate 10 true/false questions with clear explanations for each correct answer",
+      "mixed": "Create a mixed exam with multiple choice, true/false, and short answer questions covering various difficulty levels",
+      "comprehensive": "Generate a comprehensive study test with 15-20 questions covering all major topics and concepts",
+      "exam": "Create a final exam preparation test with 25 challenging questions suitable for assessment purposes",
+      "custom": "Generate questions in a custom format - specify your preferred question types, difficulty level, and number of questions",
+      "beginner": "Create beginner-friendly questions with simple language and fundamental concepts for introductory learning",
+      "multipleChoice": "Generate multiple choice questions only with 4 answer options per question and clear explanations",
+      "practice": "Create practice test questions for skill reinforcement with immediate feedback and explanations",
+      "revision": "Generate revision quiz questions focusing on key concepts and important topics for review purposes",
+      "conceptual": "Create questions that test conceptual understanding rather than memorization, focusing on 'why' and 'how'",
+      "essay": "Generate short answer and essay questions that require detailed explanations and critical analysis"
+    }
+  },"SignIn": {
+    "title": "Sign in to AI Student Space",
+    "subtitle": "Access your AI learning companion",
+    "description": "Sign in to AI Student Space to access your personalized AI learning experience",
+    "signInWith": "Sign in with",
+    "orContinueAs": "Or continue as",
+    "continueAsGuest": "Continue as Guest",
+    "authenticating": "Authenticating with {provider}...",
+    "signInSuccess": "Successfully signed in! Redirecting...",
+    "signInError": "Failed to sign in. Please try again.",
+    "settingUpGuest": "Setting up guest session...",
+    "settingUp": "Setting up...",
+    "guestUser": "Guest User"
+  },  "SignUp": {
+    "title": "Create your AI Student Space account",
+    "subtitle": "Start your AI-powered learning journey",
+    "description": "Create your AI Student Space account to begin your personalized AI learning experience",
+    "signUpWith": "Sign up with",
+    "alreadyHaveAccount": "Already have an account?",
+    "signInInstead": "Sign in instead",
+    "termsNotice": "By creating an account, you agree to our",
+    "termsOfService": "Terms of Service",
+    "and": "and",
+    "privacyPolicy": "Privacy Policy",
+    "creatingAccount": "Creating account with {provider}...",
+    "signUpSuccess": "Account created successfully! Redirecting...",
+    "signUpError": "Failed to create account. Please try again."
+  },  "AuthError": {
+    "title": "Authentication Error",
+    "description": "An error occurred during authentication",
+    "configurationError": "There was a problem with the authentication configuration. Please try again later.",
+    "accessDenied": "Access was denied. You may not have permission to sign in.",
+    "verificationError": "The verification link is invalid or has expired.",
+    "defaultError": "An unexpected error occurred during authentication.",
+    "tryAgain": "Try Again",
+    "backToHome": "Back to Home",
+    "errorCode": "Error code"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark", 
+    "system": "System",
+    "switchTheme": "Switch theme",
+    "toggleTheme": "Toggle theme"
+  },
+  "UserSession": {
+    "user": "User",
+    "signOut": "Sign Out",
+    "signingOut": "Signing Out..."
+  },  "settings": {
+    "title": "Settings",
+    "profile": {
+      "title": "Profile Information"
+    },
+    "files": {
+      "title": "Uploaded Files",
+      "empty": "No files uploaded yet",
+      "delete": {
+        "title": "Delete File",
+        "description": "Are you sure you want to delete this file? This will permanently remove the file and all its embeddings from the system. This action cannot be undone.",
+        "cancel": "Cancel",
+        "confirm": "Delete"
+      }
+    },
+    "account": {
+      "title": "Account Settings",
+      "description": "Manage your account preferences and profile information."
+    },
+    "notifications": {
+      "title": "Notifications",
+      "description": "Configure your notification preferences."
+    },
+    "privacy": {
+      "title": "Privacy & Security",
+      "description": "Control your privacy settings and security preferences."
+    },
+    "appearance": {
+      "title": "Appearance",
+      "description": "Customize the look and feel of the application."
+    }
+  },
+  "fileManager": {
+    "title": "File Manager",
+    "profile": {
+      "title": "Profile Information"
+    },
+    "files": {
+      "title": "Uploaded Files",
+      "empty": "No files uploaded yet",
+      "delete": {
+        "title": "Delete File",
+        "description": "Are you sure you want to delete this file? This will permanently remove the file and all its embeddings from the system. This action cannot be undone.",
+        "cancel": "Cancel",
+        "confirm": "Delete"
+      }
+    }
+  }
+}
